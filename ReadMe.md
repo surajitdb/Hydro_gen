@@ -34,7 +34,7 @@ Copyright: Alberto Bellin and Yoram Rubin.
 
 please cite the following paper in papers or reports that use the present software:
 
-Bellin A., Y. Rubin, **Hydro_gen: A new random field generator for correlated properties**, Stochastic Hydrology and Hydraulics, 10(4), 1996.
+> Bellin A., Y. Rubin, **Hydro_gen: A new random field generator for correlated properties**, Stochastic Hydrology and Hydraulics, 10(4), 1996.
 
 
 
