@@ -11,7 +11,7 @@ Hydro_gen is a computer code for generating two-dimensional space random functio
             via Mesiano, 77, I-38050 Trento, Italy
             phone:  +39 461 882620
             fax:    +39 461 882672
-            e-mail: Alberto.Bellin@ing.unitn.it
+            e-mail: Alberto.Bellin@unitn.it
 
        2:   Department of Civil Engineering
             University of California, Berkeley
@@ -53,4 +53,4 @@ Permission is  granted to anyone to use and modify this packages provided that:
 Copyright conditions of the above referenced libraries are extended to hydro_gen.
 
 Bug reports and hints are welcomed to the following e-mail address:
-Alberto.Bellin@ing.unitn.it
+Alberto.Bellin@unitn.it

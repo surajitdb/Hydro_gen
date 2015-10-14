@@ -24,7 +24,7 @@ c            Universita' di Trento
 c            via Mesiano, 77, I-38050 Trento, Italy
 c            phone:  +39 461 882620
 c            fax:    +39 461 882672
-c            e-mail: alberto@itnca1.ing.unitn.it
+c            e-mail: Alberto.Bellin@unitn.it
 c
 c       2:   Department of Civil Engineering
 c            University of California, Berkeley
@@ -40,7 +40,7 @@ c Universita' di Trento,
 c Dipartimento di Ingegneria Civile ed Ambientale,
 c 38050-I Mesiano di Povo, TRENTO
 c
-c e-mail:   Alberto.Bellin@ing.unitn.it 
+c e-mail:   Alberto.Bellin@unitn.it 
 c
 c Copyright: Alberto Bellin and Yoram Rubin.
 c
@@ -88,7 +88,7 @@ c Copyright conditions of the above referenced libraries are
 c extended to hydro_gen  
 c
 c Bug reports and hints are welcomed to the following e-mail address:
-c Alberto.Bellin@ing.unitn.it
+c Alberto.Bellin@unitn.it
 c----------------------------------------------------------------------------
 c              parameter dimensions description:
 c
