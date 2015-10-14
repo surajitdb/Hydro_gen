@@ -1,13 +1,4 @@
-  H   H Y        Y DDD     RRRRR      OOOO      GGGGGGG  EEEEEE N         N
-  H   H  Y      Y  D  D    R    R    O    O     G        E      N N       N
-  H   H   Y    Y   D   D   R     R  O      O    G        E      N  N      N
-  H   H    Y  Y    D    D  R     R  O      O    G        E      N   N     N
-  HHHHH     Y      D    D  R    R   O      O    G        EEEE   N    N    N
-  H   H     Y      D    D  R  R     O      O    G   GGG  E      N     N   N
-  H   H     Y      D   D   R   R    O      O    G     G  E      N      N  N
-  H   H     Y      D  D    R    R    O    O     G     G  E      H       N N
-  H   H     Y      DDD     R     R    OOO  ____ GGGGGGG  EEEEEE H         N
-
+# Hydro_gen
 
 Hydro_gen is a computer code for generating two-dimensional space random functions with an assigned covariance structure. The original code is written in Ansi Fortran 77, however this repository will collect also the porting of the original code in the OMS 3.0 framework.
 
@@ -48,24 +39,18 @@ Bellin A., Y. Rubin, **Hydro_gen: A new random field generator for correlated pr
 
 
 Permission is  granted to anyone to use and modify this packages provided that:
+
 1. the authors are acknowledged by citing the abofe referenced paper;
 2. the use in any kind of research or job will be cited in the relative papers or reports;
 3. the use of the package is under the user responsability NO WARRANTY is given concerning bugs and errors.
-4. the use or distribution must be free of charge.                 
+4. the use or distribution must be free of charge.
 5. the package uses the following libraries:
-    * LINPACK by J. J. Dongarra, J. R. Bunch, C. B. Moler 
-      e G.W. Stewart, for the linear system solution
+    * LINPACK by J. J. Dongarra, J. R. Bunch, C. B. Moler e G.W. Stewart, for the linear system solution
     * BLAS, for linear algebra
-    * RANLIB by Barry W. Brown and James Lovato,
-      Department of Biomathematics, Box 237
-      the University of Texas, M.D. Anderson Cancer Center
-      1515 Holcombe Boulevard, Huston, TX 77030, for the generation
-      of independent normally distributed random numbers.
-    * Numerical Recipes by W. H. Press, B. P. Flannery, S. A.
-      Teukolsky, W. T. Vetterling, for the function computing
-      the Bessel Function
+    * RANLIB by Barry W. Brown and James Lovato, Department of Biomathematics, Box 237 the University of Texas, M.D. Anderson Cancer Center 1515 Holcombe Boulevard, Huston, TX 77030, for the generation of independent normally distributed random numbers.
+    * Numerical Recipes by W. H. Press, B. P. Flannery, S. A. Teukolsky, W. T. Vetterling, for the function computing the Bessel Function
 
-Copyright conditions of the above referenced libraries are extended to hydro_gen  
+Copyright conditions of the above referenced libraries are extended to hydro_gen.
 
 Bug reports and hints are welcomed to the following e-mail address:
 Alberto.Bellin@ing.unitn.it
